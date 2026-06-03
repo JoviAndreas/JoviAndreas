@@ -3,7 +3,7 @@
 - 🔭 I’m currently working
 - 🌱 I’m currently learning
 
-![Top Langs](https://github-readme-stats-ruby-iota.vercel.app/api/top-langs/?username=JoviAndreas&langs_count=5&hide=css&layout=compact&show_icons=true&theme=apprentice)
+![Top Langs](https://github-readme-stats-ruby-iota.vercel.app/api/top-langs/?username=JoviAndreas&langs_count=5&hide=css,blade&layout=compact&show_icons=true&theme=apprentice)
 
 <!--
 **JoviAndreas/JoviAndreas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
